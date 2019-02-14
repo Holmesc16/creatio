@@ -1,2 +1,3 @@
 # creatio
-Gerate preset boilerplates for your Javascript projects
+
+Generate preset boilerplates for your Javascript projects

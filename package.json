@@ -1,6 +1,6 @@
 {
 	"name": "creatio",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Generate preset boilerplates for your Javascript projects",
 	"main": "index.js",
 	"scripts": {
